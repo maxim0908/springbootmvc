@@ -2,6 +2,7 @@ package com.kata.mvc.springbootmvc.controller;
 
 import com.kata.mvc.springbootmvc.entity.User;
 import com.kata.mvc.springbootmvc.service.UserService;
+import com.kata.mvc.springbootmvc.service.UserServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
